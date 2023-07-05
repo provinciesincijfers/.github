@@ -33,7 +33,7 @@ Software (doorgaans scripts voor statistische verwerking) die we hier delen om v
 *	[CRABtools](https://github.com/provinciesincijfers/CRABtools): scripts om de open data van CRAB om te zetten in een handig formaat
 * [kadaster-post-processing](https://github.com/provinciesincijfers/kadaster-post-processing): verwerking van kadaster-data aangeleverd door CEVI tot verwerkte statistieken
 * [swing-data-validation](https://github.com/provinciesincijfers/swing-data-validation): (voorlopig privé) semi-automatische data-validatie door via de API live Swing data te vergelijken met data die klaarstaat voor upload
-
+* [fluvius-open-data](https://github.com/provinciesincijfers/fluvius-open-data): verwerking van verbruik op niveau statsec
 
 
 ## Werken met Github
