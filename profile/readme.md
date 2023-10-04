@@ -15,6 +15,7 @@ Hoewel elk reposity een eigen Issue tracker heeft, bestaan deze énkel om aan is
 *	[PinC-taakopvolging](https://github.com/provinciesincijfers/PinC-taakopvolging): organisatie van het praktische werk aan provincies.incijfers.be. Wordt gebruikt om de agenda van de Redactiegroep te voeden en taken toe te wijzen aan personen
 *	[data-wishlist](https://github.com/provinciesincijfers/data-wishlist): hier kunnen externen (in de praktijk: de centrumsteden) vragen om nieuwe data-reeksen op te bouwen. Zo ontstaat direct ook een archief van vragen.
 *	[Bugsinjive](https://github.com/provinciesincijfers/Bugsinjive): subset van technische issues in de software die we voor provincies.incijfers.be gebruiken; degene die we blijven opvolgen met ABF
+*	[swing-stories](https://github.com/provinciesincijfers/swing-stories/issues): samen met de centrumsteden opvolgen welke bugs / wensen er zijn rond swing stories
 
 ### [DOCUMENTATION](https://github.com/search?q=topic%3Adocumentation+org%3Aprovinciesincijfers&type=Repositories)
 
@@ -34,6 +35,7 @@ Software (doorgaans scripts voor statistische verwerking) die we hier delen om v
 * [kadaster-post-processing](https://github.com/provinciesincijfers/kadaster-post-processing): verwerking van kadaster-data aangeleverd door CEVI tot verwerkte statistieken
 * [swing-data-validation](https://github.com/provinciesincijfers/swing-data-validation): semi-automatische data-validatie door via de API live Swing data te vergelijken met data die klaarstaat voor upload
 * [fluvius-open-data](https://github.com/provinciesincijfers/fluvius-open-data): verwerking van verbruik op niveau statsec
+* [Pythonspeeltuin](https://github.com/provinciesincijfers/PythonSpeeltuin) python scripts
 
 
 ## Werken met Github
