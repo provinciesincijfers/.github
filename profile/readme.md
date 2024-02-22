@@ -1,6 +1,6 @@
 # provinciesincijfers - Landingspagina voor D&amp;A op Github
 
-Heb je vragen over provincies.incijfers.be, [spring dan binnen op onze chat](https://provincies.incijfers.be/report/chat.html) of neem contact op via info@provincies.incijfers.be
+Heb je vragen over provincies.incijfers.be, neem dan contact op via info@provincies.incijfers.be
 Hieronder meer over hoe we Github gebruiken in de werking D&A.
 
 ## Structuur
