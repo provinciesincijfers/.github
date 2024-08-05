@@ -23,6 +23,7 @@ Verwijzingen naar handleidingen en afspraken in verband met het beheer van provi
 
 *	[JiveDocumentation](https://github.com/provinciesincijfers/JiveDocumentation): het procedurehandboek dat D&A gebruikt om provincies.incijfers.be te beheren. Dit omvat praktische handleidingen voor het gebruik van de beheersomgeving (Swing Studio) van de Databank (Swing Viewer of Swing Jive) en van het Dashboard (Swing Mosaic). Daarnaast ook de praktische afspraken i.v.m. vormgeving en hoe we data behandelen. Tenslotte omvat dit ook documentatie over opleidingen voor eindgebruikers.
 *	[connectorbeheer](https://github.com/provinciesincijfers/connectorbeheer): documentatie over werking en inhoud van de Swing Connector naar de Centrumsteden. Deze wordt ook als *issue tracker* gebruikt voor problemen met de Swing Connector (met name naar de Centrumsteden) en voor kleine verzoeken tot uitbreiding.
+*	[PinC-HTML voor dummies](https://github.com/provinciesincijfers/PinC-HTML): alles wat een PinC-beheerder over HTML moet weten. Geen handleiding voor hoe je een website maakt, maar wel een handleiding bij HTML in PinC. We maken gebruik van HTML in de velden van de bronnentabel (metadata), in HTML-bijlagen (metadata), in dynamische rapporten en in Swing Stories.
 
 ### [CODE](https://github.com/search?q=topic%3Acode+org%3Aprovinciesincijfers&type=Repositories): 
 
