@@ -16,6 +16,7 @@ Hoewel elk reposity een eigen Issue tracker heeft, bestaan deze énkel om aan is
 *	[data-wishlist](https://github.com/provinciesincijfers/data-wishlist): hier kunnen externen (in de praktijk: de centrumsteden) vragen om nieuwe data-reeksen op te bouwen. Zo ontstaat direct ook een archief van vragen.
 *	[Bugsinjive](https://github.com/provinciesincijfers/Bugsinjive): subset van technische issues in de software die we voor provincies.incijfers.be gebruiken; degene die we blijven opvolgen met ABF
 *	[swing-stories](https://github.com/provinciesincijfers/swing-stories/issues): samen met de centrumsteden opvolgen welke bugs / wensen er zijn rond swing stories
+*	[uitwisseling_pinc-guidea](https://github.com/provinciesincijfers/uitwisseling_pinc-guidea): Informatie uitwisselen over Swing software met Guidea.
 
 ### [DOCUMENTATION](https://github.com/search?q=topic%3Adocumentation+org%3Aprovinciesincijfers&type=Repositories)
 
