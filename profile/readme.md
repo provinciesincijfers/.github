@@ -37,7 +37,7 @@ Software (doorgaans scripts voor statistische verwerking) die we hier delen om v
 * [kadaster-post-processing](https://github.com/provinciesincijfers/kadaster-post-processing): verwerking van kadaster-data aangeleverd door CEVI tot verwerkte statistieken
 * [swing-data-validation](https://github.com/provinciesincijfers/swing-data-validation): semi-automatische data-validatie door via de API live Swing data te vergelijken met data die klaarstaat voor upload
 * [fluvius-open-data](https://github.com/provinciesincijfers/fluvius-open-data): verwerking van verbruik op niveau statsec
-* [Pythonspeeltuin](https://github.com/provinciesincijfers/PythonSpeeltuin) python scripts
+* [Code & Collaberate](https://github.com/provinciesincijfers/PythonSpeeltuin): uitwisseling tips en tricks rond programmeren
 
 
 ## Werken met Github
